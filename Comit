@@ -223,7 +223,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "Menu Destroy (key: valkyresnotopo",
    Callback = function()
-      loadstring(game:HttpGet("https://pastebin.com/raw/aEsQtwnA"))()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/Osjsidifjwjs/Ghhh/refs/heads/main/DestroyMeep%20Pc%20Premium.txt"))()
    end,
 })
 
